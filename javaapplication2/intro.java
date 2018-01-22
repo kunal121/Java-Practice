@@ -98,6 +98,14 @@ public class intro {
      // Same case with constructor and constructor cannot be static;
       
     
+      /** *******************************FUNTION OF INTEGER OBJECT************************
+      1) .toBinaryString()
+      2) .toOcatalString()
+      3) .byteValue()
+      4) .shortValue()
+      5) .floatValue()
+      6) .doubleValue()  
+      */
 	}
 	
 
