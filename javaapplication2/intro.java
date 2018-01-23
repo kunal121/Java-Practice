@@ -106,7 +106,16 @@ public class intro {
       5) .floatValue()
       6) .doubleValue()  
       */
-	}
+      
+//      byte b=126;
+//      System.out.println(b);
+//      b++;
+//      System.out.println(b);
+//      b++; 
+//      b++;
+//      System.out.println(b);
+	
+    }
 	
 
   }
